@@ -44,3 +44,11 @@ Here are some attached ScreenShot after runnung the system
 ![7](https://user-images.githubusercontent.com/31859127/124880317-fa08f180-dfef-11eb-986c-ae541a954c1d.JPG)
 
                   After removing a vehicle
+                  
+               
+               
+ __Question 2__
+ 
+ A simple login page design with html and css. Email format must be followed and password can't be remained blank. After logging in there comes a page with success message.
+
+

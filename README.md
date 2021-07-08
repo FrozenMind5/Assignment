@@ -19,17 +19,27 @@ Here are some attached ScreenShot after runnung the system
                                     The menu
                                    
 ![2](https://user-images.githubusercontent.com/31859127/124879741-5ae3fa00-dfef-11eb-88f0-d9ebf20e4b62.JPG)
+                  
                   Adding a Normal Vehicle
                   
 ![3](https://user-images.githubusercontent.com/31859127/124879814-70592400-dfef-11eb-93b3-03630b9a205e.JPG)
-                   Adding a Sports Vehicle
+                  
+                  Adding a Sports Vehicle
 
 ![4](https://user-images.githubusercontent.com/31859127/124879905-8666e480-dfef-11eb-8e4d-94e4e1d5b5d5.JPG)
-                    Showing List
+                  
+                  Showing List
 
 ![5](https://user-images.githubusercontent.com/31859127/124880005-a1395900-dfef-11eb-93d6-ac6055b3801b.JPG)
 
-                    Showing list with visitor count
+                   
+                   Showing list with visitor count
  ![6](https://user-images.githubusercontent.com/31859127/124880085-b910dd00-dfef-11eb-8243-21e7251f0a7e.JPG)
 
-                    Removing a vehicle
+                   
+                   Removing a vehicle
+
+
+![7](https://user-images.githubusercontent.com/31859127/124880317-fa08f180-dfef-11eb-986c-ae541a954c1d.JPG)
+
+                  After removing a vehicle

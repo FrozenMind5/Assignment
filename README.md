@@ -16,7 +16,7 @@ All vehicle attributes kept in String datatype to add it with flexibility. (like
 Here are some attached ScreenShot after runnung the system
 
 ![1](https://user-images.githubusercontent.com/31859127/124879590-325c0000-dfef-11eb-9f60-67c7ed426da0.JPG)
-                                    The menu
+                   The menu
                                    
 ![2](https://user-images.githubusercontent.com/31859127/124879741-5ae3fa00-dfef-11eb-88f0-d9ebf20e4b62.JPG)
                   
